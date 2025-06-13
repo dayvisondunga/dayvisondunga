@@ -83,4 +83,13 @@ Aqui você vai encontrar meus projetos e experimentos enquanto avanço na carrei
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvisondunga&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p> <br/><br/><br/><br/>
+
+
+<br/>
+
+
+<p align="right" font-weight="bold">
+    <strong>Contador de Visitas</strong>
 </p>
+<div align="right">   <img alingn="left" src="https://profile-counter.glitch.me/dayvisondunga/count.svg" /></div>
